@@ -1,0 +1,32 @@
+/* CSS */
+.otp-container {
+    background: linear-gradient(to bottom, #171233
+    , #3B3170,#271F4F 
+
+    );
+    height: 500px;
+    padding: 40px;
+    border-radius: 40px;
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}
+
+.otp-inputs input {
+    border-radius: 10px;
+    border: 2px solid gray;
+    width: 35px;
+    margin: 0 5px;
+    text-align: center;
+}
+
+.otp-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: solid 1px white;
+    background-color: #9575cd;
+    color: white;
+    border-radius: 40px;
+    cursor: pointer;
+    width: 300px;
+}
