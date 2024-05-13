@@ -8,4 +8,12 @@ All projects created in Snack are publicly available, so you can easily share th
 
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
+
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<img width="340" alt="Screenshot 2024-05-13 at 11 40 50 PM" src="https://github.com/PremThakareitm/Mental_Health_App-Backup-/assets/142775560/5deccc74-db15-44b5-af4a-f87091d0b2e2">
+
+<img width="340" alt="Screenshot 2024-05-13 at 11 50 27 PM" src="https://github.com/PremThakareitm/Mental_Health_App-Backup-/assets/142775560/53e48912-f516-48a0-91ed-a1f89c580e75">
+
+
+
+
