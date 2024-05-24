@@ -10,5 +10,6 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
+ Home Page SS
+<img width="333" alt="Screenshot 2024-05-24 at 11 07 54 AM" src="https://github.com/PremThakareitm/Mental_Health_App-Backup-/assets/142775493/928e1ee2-8d4b-44e7-acb6-c9f8e8d62089">
 
-![Uploading Screenshot 2024-05-24 at 11.07.10 AM.png…]()
